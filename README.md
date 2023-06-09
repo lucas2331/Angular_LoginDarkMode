@@ -1,6 +1,6 @@
 # CoinsConverter
 
-### Desenvolvido em: <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+### Desenvolvido em: <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
 
 ### Layout do Projeto
 ![flutter1.PNG](https://github.com/lucas2331/CoinsConverter/blob/lucas2331/README.md/README.md/flutter1.PNG)
